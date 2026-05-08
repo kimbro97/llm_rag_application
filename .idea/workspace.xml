@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b667fcac-3b91-4f2f-973c-160d6291681a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../파이썬/llm_rag_application/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../파이썬/llm_rag_application/langchain_llm_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../파이썬/llm_rag_application/rag_with_chroma.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../파이썬/llm_rag_application/tax.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../파이썬/llm_rag_application/.env" beforeDir="false" afterPath="$PROJECT_DIR$/../../파이썬/llm_rag_application/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../파이썬/llm_rag_application/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../파이썬/llm_rag_application/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../파이썬/llm_rag_application" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "kimbro97"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kimbro97/llm_rag_application.git",
+    "accountId": "4ca4cce7-7521-4ed3-928c-edffe9321258"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -42,7 +52,7 @@
     "Python.rag_with_chroma.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/kimbro/projects/파이썬/llm_rag_application",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
