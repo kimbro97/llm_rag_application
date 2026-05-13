@@ -3,7 +3,7 @@ name = "llm-rag-application"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.13,<3.14"
 dependencies = [
     "docx2txt>=0.9",
     "ipykernel>=7.2.0",
@@ -19,4 +19,7 @@ dependencies = [
     "langgraph>=1.1.10",
     "langsmith>=0.8.2",
     "python-dotenv>=1.2.2",
+    "py-zerox",
+    "unstructured>=0.22.28",
+    "markdown>=3.10.2",
 ]
